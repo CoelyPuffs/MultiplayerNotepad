@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TCPClient", "TCPClient\TCPClient.shproj", "{C18109FC-4B56-4B73-B415-222262A292EB}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TCPServer", "TCPServer\TCPServer.shproj", "{357491D7-CC9B-47DB-93E3-95D5C9996FA5}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TCPDataProcessor", "TCPDataProcessor\TCPDataProcessor.shproj", "{DBB2B220-0C19-4E65-A304-8BF045414903}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		TCPClient\TCPClient.projitems*{c18109fc-4b56-4b73-b415-222262a292eb}*SharedItemsImports = 13
+		TCPDataProcessor\TCPDataProcessor.projitems*{dbb2b220-0c19-4e65-a304-8bf045414903}*SharedItemsImports = 13
+		TCPServer\TCPServer.projitems*{357491d7-cc9b-47db-93e3-95d5c9996fa5}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

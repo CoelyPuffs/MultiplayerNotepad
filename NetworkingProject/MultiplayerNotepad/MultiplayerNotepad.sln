@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerNotepadClient", "MultiplayerNotepad\MultiplayerNotepadClient.csproj", "{DCC71E56-E6FF-46C1-BEA4-E50C4F6A344D}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TCPClient", "..\TCP\TCPClient\TCPClient.shproj", "{C18109FC-4B56-4B73-B415-222262A292EB}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "KeyboardInput", "..\KeyboardInput\KeyboardInput.shproj", "{1A70339B-A9CB-47F4-91E3-CAD035B8ED3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerNotepadServer", "NotepadServer\MultiplayerNotepadServer.csproj", "{FA180AEB-25BA-4F32-9E5B-4F1A7A6C95DC}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "TCPServer", "..\TCP\TCPServer\TCPServer.shproj", "{357491D7-CC9B-47DB-93E3-95D5C9996FA5}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ApplicationProtocol", "ApplicationProtocol\ApplicationProtocol.shproj", "{B4EF53F4-C122-45F6-A926-90580AD23310}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "RichTextBoxExtension", "RichTextBoxExtension\RichTextBoxExtension.shproj", "{DB1759FF-D49A-4F64-8281-9527BEB02133}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		RichTextBoxExtension\RichTextBoxExtension.projitems*{fa180aeb-25ba-4f32-9e5b-4f1a7a6c95dc}*SharedItemsImports = 4
+		..\KeyboardInput\KeyboardInput.projitems*{fa180aeb-25ba-4f32-9e5b-4f1a7a6c95dc}*SharedItemsImports = 4
+		ApplicationProtocol\ApplicationProtocol.projitems*{fa180aeb-25ba-4f32-9e5b-4f1a7a6c95dc}*SharedItemsImports = 4
+		..\TCP\TCPServer\TCPServer.projitems*{fa180aeb-25ba-4f32-9e5b-4f1a7a6c95dc}*SharedItemsImports = 4
+		RichTextBoxExtension\RichTextBoxExtension.projitems*{db1759ff-d49a-4f64-8281-9527beb02133}*SharedItemsImports = 13
+		..\TCP\TCPClient\TCPClient.projitems*{c18109fc-4b56-4b73-b415-222262a292eb}*SharedItemsImports = 13
+		RichTextBoxExtension\RichTextBoxExtension.projitems*{dcc71e56-e6ff-46c1-bea4-e50c4f6a344d}*SharedItemsImports = 4
+		..\TCP\TCPClient\TCPClient.projitems*{dcc71e56-e6ff-46c1-bea4-e50c4f6a344d}*SharedItemsImports = 4
+		..\KeyboardInput\KeyboardInput.projitems*{dcc71e56-e6ff-46c1-bea4-e50c4f6a344d}*SharedItemsImports = 4
+		ApplicationProtocol\ApplicationProtocol.projitems*{dcc71e56-e6ff-46c1-bea4-e50c4f6a344d}*SharedItemsImports = 4
+		ApplicationProtocol\ApplicationProtocol.projitems*{b4ef53f4-c122-45f6-a926-90580ad23310}*SharedItemsImports = 13
+		..\TCP\TCPServer\TCPServer.projitems*{357491d7-cc9b-47db-93e3-95d5c9996fa5}*SharedItemsImports = 13
+		..\KeyboardInput\KeyboardInput.projitems*{1a70339b-a9cb-47f4-91e3-cad035b8ed3d}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC71E56-E6FF-46C1-BEA4-E50C4F6A344D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC71E56-E6FF-46C1-BEA4-E50C4F6A344D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC71E56-E6FF-46C1-BEA4-E50C4F6A344D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC71E56-E6FF-46C1-BEA4-E50C4F6A344D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA180AEB-25BA-4F32-9E5B-4F1A7A6C95DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA180AEB-25BA-4F32-9E5B-4F1A7A6C95DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA180AEB-25BA-4F32-9E5B-4F1A7A6C95DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA180AEB-25BA-4F32-9E5B-4F1A7A6C95DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

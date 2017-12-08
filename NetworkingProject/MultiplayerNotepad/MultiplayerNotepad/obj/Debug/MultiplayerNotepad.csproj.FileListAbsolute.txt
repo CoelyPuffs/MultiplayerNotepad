@@ -1,0 +1,10 @@
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\bin\Debug\MultiplayerNotepad.exe.config
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\bin\Debug\MultiplayerNotepad.exe
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\bin\Debug\MultiplayerNotepad.pdb
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.csprojResolveAssemblyReference.cache
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.Properties.Resources.resources
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.csproj.GenerateResource.Cache
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.exe
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.pdb
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.DocumentEditor.resources
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.ConnectionForm.resources

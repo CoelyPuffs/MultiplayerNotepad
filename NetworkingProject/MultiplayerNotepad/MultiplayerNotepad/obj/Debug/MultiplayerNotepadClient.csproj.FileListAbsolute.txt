@@ -1,0 +1,23 @@
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\bin\Debug\MultiplayerNotepad.exe.config
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.exe
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.pdb
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\bin\Debug\MultiplayerNotepad.exe
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\bin\Debug\MultiplayerNotepad.pdb
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.DocumentEditor.resources
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.ConnectionForm.resources
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.Properties.Resources.resources
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepadClient.csproj.GenerateResource.Cache
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepadClient.csprojResolveAssemblyReference.cache
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\MultiplayerNotepad\bin\Debug\MultiplayerNotepad.exe.config
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.exe
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.pdb
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\MultiplayerNotepad\bin\Debug\MultiplayerNotepad.exe
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\MultiplayerNotepad\bin\Debug\MultiplayerNotepad.pdb
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.DocumentEditor.resources
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.ConnectionForm.resources
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.Properties.Resources.resources
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepadClient.csproj.GenerateResource.Cache
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepadClient.csprojResolveAssemblyReference.cache
+E:\NetworkingProject\MultiplayerNotepad\MultiplayerNotepad\bin\Debug\MultiplayerNotepad.exe.config
+E:\NetworkingProject\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.exe
+E:\NetworkingProject\MultiplayerNotepad\MultiplayerNotepad\obj\Debug\MultiplayerNotepad.pdb

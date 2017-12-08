@@ -1,0 +1,21 @@
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\NotepadServer\bin\Debug\NotepadServer.exe.config
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\NotepadServer\bin\Debug\NotepadServer.exe
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\NotepadServer\bin\Debug\NotepadServer.pdb
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\NotepadServer\obj\Debug\MultiplayerNotepadServer.csprojResolveAssemblyReference.cache
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\NotepadServer\obj\Debug\NotepadServer.ServerForm.resources
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\NotepadServer\obj\Debug\NotepadServer.Properties.Resources.resources
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\NotepadServer\obj\Debug\MultiplayerNotepadServer.csproj.GenerateResource.Cache
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\NotepadServer\obj\Debug\NotepadServer.exe
+C:\Users\Kathrine Tso\Source\Repos\MultiplayerNotepad\NotepadServer\obj\Debug\NotepadServer.pdb
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\NotepadServer\bin\Debug\NotepadServer.exe.config
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\NotepadServer\obj\Debug\NotepadServer.exe
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\NotepadServer\obj\Debug\NotepadServer.pdb
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\NotepadServer\obj\Debug\NotepadServer.ServerForm.resources
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\NotepadServer\obj\Debug\NotepadServer.Properties.Resources.resources
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\NotepadServer\obj\Debug\MultiplayerNotepadServer.csproj.GenerateResource.Cache
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\NotepadServer\bin\Debug\NotepadServer.exe
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\NotepadServer\bin\Debug\NotepadServer.pdb
+C:\Users\john.boggess\Documents\Visual Studio 2015\Projects\NetworkingProjectServer\MultiplayerNotepad\NotepadServer\obj\Debug\MultiplayerNotepadServer.csprojResolveAssemblyReference.cache
+E:\NetworkingProject\MultiplayerNotepad\NotepadServer\bin\Debug\NotepadServer.exe.config
+E:\NetworkingProject\MultiplayerNotepad\NotepadServer\obj\Debug\NotepadServer.exe
+E:\NetworkingProject\MultiplayerNotepad\NotepadServer\obj\Debug\NotepadServer.pdb
